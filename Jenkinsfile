@@ -1,4 +1,3 @@
-cat > Jenkinsfile <<'JENKINS'
 pipeline {
   agent any
   options { timestamps() }
