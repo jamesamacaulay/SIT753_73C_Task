@@ -1,1 +1,1 @@
-Committing this file to test Jenkins pipeline, to trigger the workflow
+Committing this file to test Jenkins pipeline
